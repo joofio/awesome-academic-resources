@@ -8,12 +8,13 @@ https://github.com/hashicorp/research-resources
 ## bibliography manager
 
 1.[Zotero]() -  
-2.[Mendeley]()  
+2.[Mendeley] 
 
 ## brain management
 
-1.zetttlr  
-2.obsidian   
+1.[zetttlr](https://www.zettlr.com/)  
+2.[obsidian](https://obsidian.md/)    
+3.[https://orgmode.org/]
 
 ## paper and journals evaluation / discovery
 
@@ -63,17 +64,13 @@ https://github.com/hashicorp/research-resources
 ## other
 
 1. [https://www.bibcitation.com]  
-
 2.[http://Ilovepdf.com]  
-
- 
 3.[https://www.anytexteditor.com/]  
 4.[http://outline.com]  
 5.[http://wordart.com]   
-
 6.[https://mentimeter.com]  
 7.[http://padlet.com]  
 8.[http://kialo.com]  
 9.[https://opencitations.net/index/coci/api/v1]  
 10.[https://sysrev.com/]  
-
+11.[https://paperswelove.org/]   
