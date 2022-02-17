@@ -26,7 +26,7 @@ https://github.com/hashicorp/research-resources
 7.[http://eigenfactor.org/projects/openAccess/oa.php](http://eigenfactor.org/projects/openAccess/oa.php)  
 8.[http://predatoryjournals.com](http://predatoryjournals.com)  
 9.[https://predaqualis.netlify.app](https://predaqualis.netlify.app)  
-
+10.[https://www.litmaps.co/]  
 
 ## better writing
 
@@ -38,7 +38,9 @@ https://github.com/hashicorp/research-resources
 6.[http://langue.com]  
 7.[http://grammarly.com]  
 8.[http://deepl.com]  
-
+9.[https://hemingwayapp.com/]  
+10.[https://prowritingaid.com/]  
+11.[https://languagetool.org/pt]
 
 ## systematic review
 1.[https://www.rayyan.ai/]  
@@ -60,7 +62,7 @@ https://github.com/hashicorp/research-resources
 
 ## other
 
-1.[https://www.bibcitation.com]  
+1. [https://www.bibcitation.com]  
 
 2.[http://Ilovepdf.com]  
 
@@ -72,6 +74,6 @@ https://github.com/hashicorp/research-resources
 6.[https://mentimeter.com]  
 7.[http://padlet.com]  
 8.[http://kialo.com]  
-
-
+9.[https://opencitations.net/index/coci/api/v1]  
+10.[https://sysrev.com/]  
 
