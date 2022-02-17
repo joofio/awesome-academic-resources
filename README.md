@@ -1,14 +1,29 @@
 # awesome-academic-resources
 Links and resources for academics
 
+## TOC
+- [bibliography manager](#bibliography-manager)
+- [brain management](#brain-management)
+- [aper and journals evaluation / discovery](#aper and journals evaluation / discovery)
+- [Spellchecking](#spellchecking)
+- [Tips and Tricks](#tips-and-tricks)
+- [Templates and Guides](#templates-and-guides)
+  - [Markdown](#markdown)
+  - [R Markdown](#r-markdown)
+- [Illustrations](#illustrations)
 
 ## Other repositories
 https://github.com/hashicorp/research-resources
 
 ## bibliography manager
 
-1.[Zotero]() -  
-2.[Mendeley] 
+- [JabRef](https://www.jabref.org/) - Open source bibliography reference manager.
+- [Zotero](https://www.zotero.org/) - Free, easy-to-use tool to help you collect, organize, cite, and share research.
+  - [BetterBibTex for Zotero](https://retorque.re/zotero-better-bibtex/) - The missing BibLaTex integration for Zotero.
+  - [ZotFile for Zotero](http://zotfile.com/) - The missing PDF file management for Zotero.
+- [Zotero Styles](https://www.zotero.org/styles) - More than 9'000 CSL styles for Zotero, Mendeley and the like.
+- [Citation Style Language and Editor](https://github.com/citation-style-language/csl-editor) - Create your own style.
+- [Mendeley](https://www.mendeley.com/)
 
 ## brain management
 
@@ -31,27 +46,32 @@ https://github.com/hashicorp/research-resources
 
 ## better writing
 
-1.[http://phrasebank.manchester.ac.uk]  
-2.[http://writewords.org.uk/word_count.asp]  
-3.[http://thesaurus.com]   
-4.[http://smodin.com]  
-5.[http://dicionary.cambridge.org]  
-6.[http://langue.com]  
-7.[http://grammarly.com]  
-8.[http://deepl.com]  
-9.[https://hemingwayapp.com/]  
-10.[https://prowritingaid.com/]  
-11.[https://languagetool.org/pt]
+- [http://phrasebank.manchester.ac.uk]  
+- [http://writewords.org.uk/word_count.asp]  
+- [http://thesaurus.com]   
+- [http://smodin.com]  
+- [http://dicionary.cambridge.org]  
+- [http://langue.com]  
+- [http://grammarly.com]  
+- [http://deepl.com]  
+- [https://hemingwayapp.com/]  
+- [https://prowritingaid.com/]  
+- [LanguageTool](https://languagetool.org/) - Checks your grammar, style and spelling in more than 20 languages.
+- [GNU Aspell](http://aspell.net/)
+- [Hunspell](http://hunspell.github.io/)
 
 ## systematic review
 1.[https://www.rayyan.ai/]  
 2.[https://parsif.al/]  
  
 ## image
-1.[http://unsplash.com]  
-2.[http://cleanup.pictures]  
-3.[https://www.trakto.io/]  
- 
+- [http://unsplash.com]  
+- [http://cleanup.pictures]  
+- [https://www.trakto.io/]  
+- [Mermaid Live Editor](https://mermaid-js.github.io/mermaid-live-editor/) - Define simple diagrams instead of drawing them.
+- [Vega Lite](https://vega.github.io/vega-lite/examples/) - Define charts and more complex diagrams.
+- [PlantUML](https://plantuml.com/) - Define UML diagrams instead of drawing them.
+
 ## monitoring
 
 1.[http://google.com.br/alerts]  
@@ -59,7 +79,13 @@ https://github.com/hashicorp/research-resources
 
 ## text editors
 
-1.[overleaf]  
+- [overleaf]  
+- [Marktext](https://marktext.app/)
+- [Joplin](https://joplinapp.org/)
+- [Notable](https://github.com/notable/notable)
+- [Atom](https://atom.io)
+  - [Markdown Preview Enhanced for Atom](https://github.com/shd101wyy/markdown-preview-enhanced)
+  - [Autocomplete BibTex for Atom](https://github.com/apcshields/autocomplete-bibtex)
 
 ## other
 
