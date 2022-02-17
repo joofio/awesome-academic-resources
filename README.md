@@ -4,17 +4,20 @@ Links and resources for academics
 ## TOC
 - [bibliography manager](#bibliography-manager)
 - [brain management](#brain-management)
-- [aper and journals evaluation / discovery](#aper and journals evaluation / discovery)
-- [Spellchecking](#spellchecking)
-- [Tips and Tricks](#tips-and-tricks)
-- [Templates and Guides](#templates-and-guides)
-  - [Markdown](#markdown)
-  - [R Markdown](#r-markdown)
-- [Illustrations](#illustrations)
+- [paper and journals evaluation / discovery](#paper-and-journals-evaluation/discovery)
+- [better writing](#better-writing)
+- [systematic review](#systematic-review)
+- [image](#image)
+- [monitoring](#monitoring)
+- [text editors](#text-editors)
+- [monitoring](#monitoring)
+- [monitoring](#monitoring)
+- 
+## Other repositories, original content
 
-## Other repositories
 https://github.com/hashicorp/research-resources
-
+https://github.com/maehr/awesome-academic-writing/blob/master/README.md
+https://codeberg.org/teaserbot-labs/delightful-open-science/src/branch/main/README.md 
 ## bibliography manager
 
 - [JabRef](https://www.jabref.org/) - Open source bibliography reference manager.
@@ -33,16 +36,16 @@ https://github.com/hashicorp/research-resources
 
 ## paper and journals evaluation / discovery
 
-1.[researchrabbit](https://www.researchrabbit.ai/)  
-2.[connectedPapers](http://connectedapapers.com)  
-3.[scirev.org](http://scirev.org) - time journal takes to publish  
-4.[https://www.scimagojr.com/journalrank.php)(https://www.scimagojr.com/journalrank.php)  
-5.[http://scite.ai](http://scite.ai)  
-6.[http://jane.biosemantics.org](http://jane.biosemantics.org)  
-7.[http://eigenfactor.org/projects/openAccess/oa.php](http://eigenfactor.org/projects/openAccess/oa.php)  
-8.[http://predatoryjournals.com](http://predatoryjournals.com)  
-9.[https://predaqualis.netlify.app](https://predaqualis.netlify.app)  
-10.[https://www.litmaps.co/]  
+- [researchrabbit](https://www.researchrabbit.ai/)  
+- [connectedPapers](http://connectedapapers.com)  
+- [scirev.org](http://scirev.org) - time journal takes to publish  
+- [https://www.scimagojr.com/journalrank.php)(https://www.scimagojr.com/journalrank.php)  
+- [http://scite.ai](http://scite.ai)  
+- [http://jane.biosemantics.org](http://jane.biosemantics.org)  
+- [http://eigenfactor.org/projects/openAccess/oa.php](http://eigenfactor.org/projects/openAccess/oa.php)  
+- [http://predatoryjournals.com](http://predatoryjournals.com)  
+- [https://predaqualis.netlify.app](https://predaqualis.netlify.app)  
+- [https://www.litmaps.co/]  
 
 ## better writing
 
@@ -79,13 +82,35 @@ https://github.com/hashicorp/research-resources
 
 ## text editors
 
-- [overleaf]  
+- [Overleaf](https://www.overleaf.com/) - LaTex based collaborative writing system.
 - [Marktext](https://marktext.app/)
 - [Joplin](https://joplinapp.org/)
 - [Notable](https://github.com/notable/notable)
 - [Atom](https://atom.io)
   - [Markdown Preview Enhanced for Atom](https://github.com/shd101wyy/markdown-preview-enhanced)
   - [Autocomplete BibTex for Atom](https://github.com/apcshields/autocomplete-bibtex)
+
+
+## Open Data
+- [Data Repository Guidance](https://www.nature.com/sdata/policies/repositories) - Nature Magazine helps you find the right repository for your data.
+- [Zenodo](https://zenodo.org/) - Repository for (almost?) everything. If there is a more specific repository it tends to be better to use that (to build collections, specific metadata support), but Zenodo is a great backstop. [[GPL](https://github.com/zenodo)] 
+- [FAIR data](https://www.go-fair.org/) - FAIR stands for Findability, Accessibility, Interoperability, and Reuse. It is thus orthogonal to Open Data, also closed data can be FAIR, but both concepts are important for building an Open Science infrastructure.
+- [Search DataCite](https://search.datacite.org/) - Find datasets with a Digital Object Identifier (DOI).
+- [Academic Torrents](https://academictorrents.com/) - Tamperproof system to share large files and articles based on the distributed peer-to-peer system Bittorrent.
+
+### Open Access/scholarly publishing
+- [The Directory of Open Access Journals](https://doaj.org/) - A comprehensive database with OA journals. Can be searched by field.
+- [BASE](https://www.base-search.net/) and [CORE](https://core.ac.uk/) - Search engines for Open Access articles. 
+- [Open Knowledge Maps](https://openknowledgemaps.org/) - Find papers (from Pubmed or BASE) via a visual knowledge map.
+
+
+### Persistent identifiers
+- [CrossRef](https://www.crossref.org/) - A non-profit with publishers as members that gives out the Digital Object Identifiers (DOI) for scientific articles, an important [persistent identifier](https://www.project-freya.eu/) (PID) to connect Open Science tools and make articles easier to find.
+- [DataCite](https://datacite.org/) - A group that is traditionally responsible for the DOIs of data, but their support (metadata) for manuscripts and articles is getting more comprehensive. Alternative PIDs are [Handles](https://en.wikipedia.org/wiki/Handle_System) and [ARKs](https://arks.org/).
+- [ORCID](https://orcid.org/) - This organization provides PIDs for researchers, which is especially helpful for people changing their names or people from countries with many of the same names.
+- [Identifiers.org](https://identifiers.org/) - System to systematically add stable identifiers to collections.
+- [PIDapalooza](https://www.pidapalooza.org/) - There are many more PIDs. The PIDapalooza festival celebrates them all. Although we should not be blind to their downside, they are also part of the micro-managing surveillance system.
+- [Project FREYA](https://www.project-freya.eu/) - An EU project aiming at building a infrastructure for persistent identifiers (PIDs) as a core component of Open Science.
 
 ## other
 
