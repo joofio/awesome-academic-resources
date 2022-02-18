@@ -117,14 +117,15 @@ Links and resources for academics
 
 ## other
 
-1. [https://www.bibcitation.com]  
-2.[http://Ilovepdf.com]  
-3.[https://www.anytexteditor.com/]  
-4.[http://outline.com]  
-5.[http://wordart.com]   
-6.[https://mentimeter.com]  
-7.[http://padlet.com]  
-8.[http://kialo.com]  
-9.[https://opencitations.net/index/coci/api/v1]  
-10.[https://sysrev.com/]  
-11.[https://paperswelove.org/]   
+- [https://www.bibcitation.com]  
+- [http://Ilovepdf.com]  
+- [https://www.anytexteditor.com/]  
+- [http://outline.com]  
+- [http://wordart.com]   
+- [https://mentimeter.com]  
+- [http://padlet.com]  
+- [http://kialo.com]  
+- [https://opencitations.net/index/coci/api/v1]  
+- [https://sysrev.com/]  
+- [https://paperswelove.org/]   
+- https://chrome.google.com/webstore/detail/endnote-click-formerly-ko/fjgncogppolhfdpijihbpfmeohpaadpc
