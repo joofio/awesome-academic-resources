@@ -47,6 +47,7 @@ Links and resources for academics
 - [https://predaqualis.netlify.app](https://predaqualis.netlify.app)  
 - [https://www.litmaps.co/]  
 - researchgate
+- https://www.equator-network.org/
 
 ## better writing
 
