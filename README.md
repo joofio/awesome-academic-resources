@@ -15,9 +15,9 @@ Links and resources for academics
 - 
 ## Other repositories, original content
 
-https://github.com/hashicorp/research-resources
-https://github.com/maehr/awesome-academic-writing/blob/master/README.md
-https://codeberg.org/teaserbot-labs/delightful-open-science/src/branch/main/README.md 
+- https://github.com/hashicorp/research-resources
+- https://github.com/maehr/awesome-academic-writing/blob/master/README.md
+- https://codeberg.org/teaserbot-labs/delightful-open-science/src/branch/main/README.md 
 ## bibliography manager
 
 - [JabRef](https://www.jabref.org/) - Open source bibliography reference manager.
@@ -30,9 +30,9 @@ https://codeberg.org/teaserbot-labs/delightful-open-science/src/branch/main/READ
 
 ## brain management
 
-1.[zetttlr](https://www.zettlr.com/)  
-2.[obsidian](https://obsidian.md/)    
-3.[https://orgmode.org/]
+- [zetttlr](https://www.zettlr.com/)  
+- [obsidian](https://obsidian.md/)    
+- [https://orgmode.org/]
 
 ## paper and journals evaluation / discovery
 
@@ -46,6 +46,7 @@ https://codeberg.org/teaserbot-labs/delightful-open-science/src/branch/main/READ
 - [http://predatoryjournals.com](http://predatoryjournals.com)  
 - [https://predaqualis.netlify.app](https://predaqualis.netlify.app)  
 - [https://www.litmaps.co/]  
+- researchgate
 
 ## better writing
 
@@ -64,8 +65,9 @@ https://codeberg.org/teaserbot-labs/delightful-open-science/src/branch/main/READ
 - [Hunspell](http://hunspell.github.io/)
 
 ## systematic review
-1.[https://www.rayyan.ai/]  
-2.[https://parsif.al/]  
+- [https://www.rayyan.ai/]  
+- [https://parsif.al/]  
+- https://www.crd.york.ac.uk/prospero/
  
 ## image
 - [http://unsplash.com]  
