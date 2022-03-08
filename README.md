@@ -2,17 +2,22 @@
 Links and resources for academics
 
 ## TOC
-- [bibliography manager](#bibliography-manager)
-- [brain management](#brain-management)
-- [paper and journals evaluation / discovery](#paper-and-journals-evaluation/discovery)
-- [better writing](#better-writing)
-- [systematic review](#systematic-review)
-- [image](#image)
-- [monitoring](#monitoring)
-- [text editors](#text-editors)
-- [monitoring](#monitoring)
-- [monitoring](#monitoring)
-- 
+- [awesome-academic-resources](#awesome-academic-resources)
+  - [TOC](#toc)
+  - [Other repositories, original content](#other-repositories-original-content)
+  - [Bibliography Manager / referencing](#bibliography-manager--referencing)
+  - [Brain Management](#brain-management)
+  - [Paper and Journals Evaluation / Discovery](#paper-and-journals-evaluation--discovery)
+  - [Better Writing](#better-writing)
+  - [Systematic Review](#systematic-review)
+  - [Image Creation](#image-creation)
+  - [Monitoring](#monitoring)
+  - [Text Editors](#text-editors)
+  - [Presentations](#presentations)
+  - [Open Data](#open-data)
+    - [Open Access/scholarly publishing](#open-accessscholarly-publishing)
+    - [Persistent identifiers](#persistent-identifiers)
+  - [other](#other)
 ## Other repositories, original content
 
 - https://github.com/hashicorp/research-resources
@@ -20,7 +25,7 @@ Links and resources for academics
 - https://codeberg.org/teaserbot-labs/delightful-open-science/src/branch/main/README.md 
 
 
-## bibliography manager
+## Bibliography Manager / referencing
 
 - [JabRef](https://www.jabref.org/) - Open source bibliography reference manager.
 - [Zotero](https://www.zotero.org/) - Free, easy-to-use tool to help you collect, organize, cite, and share research.
@@ -29,64 +34,66 @@ Links and resources for academics
 - [Zotero Styles](https://www.zotero.org/styles) - More than 9'000 CSL styles for Zotero, Mendeley and the like.
 - [Citation Style Language and Editor](https://github.com/citation-style-language/csl-editor) - Create your own style.
 - [Mendeley](https://www.mendeley.com/)
+- [https://www.bibcitation.com](https://www.bibcitation.com)
 
-## brain management
+## Brain Management
 
 - [zetttlr](https://www.zettlr.com/)  
 - [obsidian](https://obsidian.md/)    
-- [https://orgmode.org/]
+- [https://orgmode.org/](https://orgmode.org/)
 
-## paper and journals evaluation / discovery
+## Paper and Journals Evaluation / Discovery
 
-- [researchrabbit](https://www.researchrabbit.ai/)  
-- [connectedPapers](http://connectedapapers.com)  
+- [researchrabbit](https://www.researchrabbit.ai/) - paper discovery
+- [connectedPapers](http://connectedapapers.com)  - paper discovery
 - [scirev.org](http://scirev.org) - time journal takes to publish  
-- [https://www.scimagojr.com/journalrank.php)(https://www.scimagojr.com/journalrank.php)  
+- [https://www.scimagojr.com/journalrank.php](https://www.scimagojr.com/journalrank.php)  
 - [http://scite.ai](http://scite.ai)  
 - [http://jane.biosemantics.org](http://jane.biosemantics.org)  
 - [http://eigenfactor.org/projects/openAccess/oa.php](http://eigenfactor.org/projects/openAccess/oa.php)  
 - [http://predatoryjournals.com](http://predatoryjournals.com)  
 - [https://predaqualis.netlify.app](https://predaqualis.netlify.app)  
-- [https://www.litmaps.co/]  
-- researchgate
-- https://www.equator-network.org/
+- [https://www.litmaps.co/](https://www.litmaps.co/)  
+- [Researchgate](https://www.researchgate.net/)
+- [https://www.equator-network.org/](https://www.equator-network.org/)
 - [https://beallslist.net/](https://beallslist.net/) - predatory journals
+- [https://sysrev.com/](https://sysrev.com/) - SysRev helps humans work together and with machines to extract data from documents.
+- [https://paperswelove.org/](https://paperswelove.org/) - Papers We Love is a repository of academic computer science papers and a community who loves reading them.
+## Better Writing
 
-## better writing
-
-- [http://phrasebank.manchester.ac.uk]  
-- [http://writewords.org.uk/word_count.asp]  
-- [http://thesaurus.com]   
-- [http://smodin.com]  
-- [http://dicionary.cambridge.org]  
-- [http://langue.com]  
-- [http://grammarly.com]  
-- [http://deepl.com]  
-- [https://hemingwayapp.com/]  
-- [https://prowritingaid.com/]  
+- [http://phrasebank.manchester.ac.uk](http://phrasebank.manchester.ac.uk)
+- [http://writewords.org.uk/word_count.asp](http://writewords.org.uk/word_count.asp)  
+- [http://thesaurus.com](http://thesaurus.com)
+- [http://smodin.com](http://smodin.com)
+- [http://dicionary.cambridge.org](http://dicionary.cambridge.org)
+- [http://langue.com[](](http://langue.com))
+- [http://grammarly.com](http://grammarly.com)  
+- [http://deepl.com](http://deepl.com)
+- [https://hemingwayapp.com/](https://hemingwayapp.com/)  
+- [https://prowritingaid.com/](https://prowritingaid.com/)  
 - [LanguageTool](https://languagetool.org/) - Checks your grammar, style and spelling in more than 20 languages.
 - [GNU Aspell](http://aspell.net/)
 - [Hunspell](http://hunspell.github.io/)
 
-## systematic review
-- [https://www.rayyan.ai/]  
-- [https://parsif.al/]  
-- https://www.crd.york.ac.uk/prospero/
+## Systematic Review
+- [https://www.rayyan.ai/](https://www.rayyan.ai/)
+- [https://parsif.al/](https://parsif.al/)
+- [https://www.crd.york.ac.uk/prospero/](https://www.crd.york.ac.uk/prospero/)
  
-## image
-- [http://unsplash.com]  
-- [http://cleanup.pictures]  
-- [https://www.trakto.io/]  
+## Image Creation
+- [http://unsplash.com](http://unsplash.com)
+- [http://cleanup.pictures](http://cleanup.pictures)
+- [https://www.trakto.io/](https://www.trakto.io/)
 - [Mermaid Live Editor](https://mermaid-js.github.io/mermaid-live-editor/) - Define simple diagrams instead of drawing them.
 - [Vega Lite](https://vega.github.io/vega-lite/examples/) - Define charts and more complex diagrams.
 - [PlantUML](https://plantuml.com/) - Define UML diagrams instead of drawing them.
+- [http://wordart.com](http://wordart.com)
+## Monitoring
 
-## monitoring
-
-1.[http://google.com.br/alerts]  
+1.[http://google.com/alerts]()
 2.[http://scholar.google.com.br/scholar_alerts]  
 
-## text editors
+## Text Editors
 
 - [Overleaf](https://www.overleaf.com/) - LaTex based collaborative writing system.
 - [Marktext](https://marktext.app/)
@@ -95,7 +102,10 @@ Links and resources for academics
 - [Atom](https://atom.io)
   - [Markdown Preview Enhanced for Atom](https://github.com/shd101wyy/markdown-preview-enhanced)
   - [Autocomplete BibTex for Atom](https://github.com/apcshields/autocomplete-bibtex)
+- [https://www.anytexteditor.com/](https://www.anytexteditor.com/)
 
+## Presentations
+- [https://mentimeter.com](https://mentimeter.com) - Engage your audience & eliminate awkward silences
 
 ## Open Data
 - [Data Repository Guidance](https://www.nature.com/sdata/policies/repositories) - Nature Magazine helps you find the right repository for your data.
@@ -103,6 +113,7 @@ Links and resources for academics
 - [FAIR data](https://www.go-fair.org/) - FAIR stands for Findability, Accessibility, Interoperability, and Reuse. It is thus orthogonal to Open Data, also closed data can be FAIR, but both concepts are important for building an Open Science infrastructure.
 - [Search DataCite](https://search.datacite.org/) - Find datasets with a Digital Object Identifier (DOI).
 - [Academic Torrents](https://academictorrents.com/) - Tamperproof system to share large files and articles based on the distributed peer-to-peer system Bittorrent.
+- [https://opencitations.net/index/coci/api/v1](https://opencitations.net/index/coci/api/v1)
 
 ### Open Access/scholarly publishing
 - [The Directory of Open Access Journals](https://doaj.org/) - A comprehensive database with OA journals. Can be searched by field.
@@ -120,15 +131,8 @@ Links and resources for academics
 
 ## other
 
-- [https://www.bibcitation.com]  
-- [http://Ilovepdf.com]  
-- [https://www.anytexteditor.com/]  
-- [http://outline.com]  
-- [http://wordart.com]   
-- [https://mentimeter.com]  
-- [http://padlet.com]  
-- [http://kialo.com]  
-- [https://opencitations.net/index/coci/api/v1]  
-- [https://sysrev.com/]  
-- [https://paperswelove.org/]   
-- https://chrome.google.com/webstore/detail/endnote-click-formerly-ko/fjgncogppolhfdpijihbpfmeohpaadpc
+- [http://Ilovepdf.com](http://Ilovepdf.com) 
+- [http://outline.com](http://outline.com)
+- [http://padlet.com](http://padlet.com) 
+- [http://kialo.com](http://kialo.com)
+- [Endnote Click](https://chrome.google.com/webstore/detail/endnote-click-formerly-ko/fjgncogppolhfdpijihbpfmeohpaadpc)
