@@ -90,8 +90,8 @@ Links and resources for academics
 - [http://wordart.com](http://wordart.com)
 ## Monitoring
 
-1.[http://google.com/alerts]()
-2.[http://scholar.google.com.br/scholar_alerts]  
+- [http://google.com/alerts](http://google.com/alerts)
+- [http://scholar.google.com/scholar_alerts](http://scholar.google.com/scholar_alerts)
 
 ## Text Editors
 
