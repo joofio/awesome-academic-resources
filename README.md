@@ -18,6 +18,8 @@ Links and resources for academics
 - https://github.com/hashicorp/research-resources
 - https://github.com/maehr/awesome-academic-writing/blob/master/README.md
 - https://codeberg.org/teaserbot-labs/delightful-open-science/src/branch/main/README.md 
+
+
 ## bibliography manager
 
 - [JabRef](https://www.jabref.org/) - Open source bibliography reference manager.
@@ -48,6 +50,7 @@ Links and resources for academics
 - [https://www.litmaps.co/]  
 - researchgate
 - https://www.equator-network.org/
+- [https://beallslist.net/](https://beallslist.net/) - predatory journals
 
 ## better writing
 
