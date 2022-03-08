@@ -2,8 +2,6 @@
 Links and resources for academics
 
 ## TOC
-- [awesome-academic-resources](#awesome-academic-resources)
-  - [TOC](#toc)
   - [Other repositories, original content](#other-repositories-original-content)
   - [Bibliography Manager / referencing](#bibliography-manager--referencing)
   - [Brain Management](#brain-management)
